@@ -1,4 +1,3 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 👨‍🎓 Recent IT Graduate | Passionate about Software Development | Tech Enthusiast
 
