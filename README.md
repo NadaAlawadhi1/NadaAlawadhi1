@@ -1,5 +1,5 @@
 
-# 👨‍🎓 Recent IT Graduate | Passionate about Software Development | Tech Enthusiast
+# 👩‍🎓 Recent IT Graduate | Passionate about Software Development | Tech Enthusiast
 
 I'm a dedicated IT graduate with a strong foundation in software development, eager to apply my skills and grow in the tech industry. I thrive on solving problems, learning new technologies, and contributing to innovative projects.
 
