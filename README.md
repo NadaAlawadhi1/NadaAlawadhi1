@@ -1,5 +1,5 @@
 
-# Flutter Developer | IT Graduate
+# 💻 Flutter Developer | IT Graduate
 
 Motivated IT graduate specialized in Flutter development with hands-on experience building mobile applications, designing user interfaces, and integrating REST APIs. Skilled in Dart, GitHub collaboration, and UI/UX fundamentals. Strong problem-solver who learns quickly and works well in teams.
 ---
