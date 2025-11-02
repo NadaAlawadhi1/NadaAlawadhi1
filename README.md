@@ -1,8 +1,7 @@
 
-# 👩‍🎓 Recent IT Graduate | Passionate about Software Development | Tech Enthusiast
+# Flutter Developer | IT Graduate
 
-I'm a dedicated IT graduate with a strong foundation in software development, eager to apply my skills and grow in the tech industry. I thrive on solving problems, learning new technologies, and contributing to innovative projects.
-
+Motivated IT graduate specialized in Flutter development with hands-on experience building mobile applications, designing user interfaces, and integrating REST APIs. Skilled in Dart, GitHub collaboration, and UI/UX fundamentals. Strong problem-solver who learns quickly and works well in teams.
 ---
 
 # 🚀 Languages and Tools I Use:
